@@ -6,11 +6,11 @@ The proj structure:
 
 ./..
 
-  ./causal_diagram.py
+    ./causal_diagram.py
   
-  ./reinforcement_SAC.py
+    ./reinforcement_SAC.py
   
-  ./result_rpart.r
+    ./result_rpart.r
   
-  ./counterfactual_ITE.py
+    ./counterfactual_ITE.py
   
