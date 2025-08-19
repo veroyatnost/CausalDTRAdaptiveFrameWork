@@ -5,9 +5,7 @@ This is the code for "Personalized Cognitive Intervention Strategies via Conserv
 The proj structure:
 ```
 ./..
-    ./causal_diagram.py
-    ./reinforcement_SAC.py
-    ./result_rpart.r
+    ./reinforcement_CQL.py
     ./counterfactual_ITE.py
   
 ```
