@@ -1,6 +1,6 @@
-# Personalised adaptive treatment and individual treatment effect for mild cognitive impairment: a sequential, multiple assignment randomised trial
+# Personalized Cognitive Intervention Strategies via Conservative Q-Learning: A Value-based Deep Reinforcement Learning Approach for Optimizing Individual Treatment Effects
 
-This is the code for "Personalised adaptive treatment and individual treatment effect for mild cognitive impairment: a sequential, multiple assignment randomised trial".
+This is the code for "Personalized Cognitive Intervention Strategies via Conservative Q-Learning: A Value-based Deep Reinforcement Learning Approach for Optimizing Individual Treatment Effects".
 
 The proj structure:
 ```
